@@ -1,0 +1,4 @@
+l = eval(input("Enter the length: "))
+w = eval(input("Enter the width: "))
+result = l*w
+print(result)

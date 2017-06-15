@@ -1,0 +1,4 @@
+h = eval(input('Enter the height: '))
+b = eval(input('Enter the base: '))
+result = h*b/2
+print(result)

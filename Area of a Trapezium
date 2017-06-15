@@ -1,0 +1,5 @@
+b1 = eval(input("Enter Base 1: "))
+b2 = eval(input("Enter Base 2: "))
+h = eval(input("Enter the Height: "))
+result = (1/2*h)*(b1+b2)
+print(result)
